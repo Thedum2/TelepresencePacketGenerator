@@ -1,0 +1,11 @@
+C:\Users\더드밍\RiderProjects\TelepresenceCommonPacketTool\bin\Debug\TelepresenceCommonPacketTool.exe.config
+C:\Users\더드밍\RiderProjects\TelepresenceCommonPacketTool\bin\Debug\TelepresenceCommonPacketTool.exe
+C:\Users\더드밍\RiderProjects\TelepresenceCommonPacketTool\bin\Debug\TelepresenceCommonPacketTool.pdb
+C:\Users\더드밍\RiderProjects\TelepresenceCommonPacketTool\obj\Debug\TelepresenceCommonPacketTool.csproj.AssemblyReference.cache
+C:\Users\더드밍\RiderProjects\TelepresenceCommonPacketTool\obj\Debug\TelepresenceCommonPacketTool.csproj.SuggestedBindingRedirects.cache
+C:\Users\더드밍\RiderProjects\TelepresenceCommonPacketTool\obj\Debug\TelepresenceCommonPacketTool.Properties.Resources.resources
+C:\Users\더드밍\RiderProjects\TelepresenceCommonPacketTool\obj\Debug\TelepresenceCommonPacketTool.csproj.GenerateResource.cache
+C:\Users\더드밍\RiderProjects\TelepresenceCommonPacketTool\obj\Debug\TelepresenceCommonPacketTool.csproj.CoreCompileInputs.cache
+C:\Users\더드밍\RiderProjects\TelepresenceCommonPacketTool\obj\Debug\TelepresenceCommonPacketTool.exe
+C:\Users\더드밍\RiderProjects\TelepresenceCommonPacketTool\obj\Debug\TelepresenceCommonPacketTool.pdb
+C:\Users\더드밍\RiderProjects\TelepresenceCommonPacketTool\obj\Debug\TelepresenceCommonPacketTool.SettingPacket.resources
